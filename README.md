@@ -2,9 +2,8 @@ KUKU AI GENERALIST ASSIGNMENT — PROBLEM 3 SOLUTION DOCUMENT
 Candidate: Akshat Gupta | Problem Chosen: Problem 3 (Find Your Own Problem)
 Live Prototype: https://akshatgpt1-kukuproject-app-pdkklz.streamlit.app/ | GitHub Repository: https://github.com/akshatgpt1/kukuproject
 
-================================================================================
-1. STRATEGIC JUSTIFICATION: WHY PROBLEM 3 OVER PROBLEMS 1 & 2?
-================================================================================
+
+1. STRATEGIC JUSTIFICATION: WHY PROBLEM 3 OVER PROBLEMS 1 & 2
 
 When selecting between the three assignment problems, Problems 1 (Finding Promos) and 2 (Building an AI Lawyer) present standard prompts where outcomes heavily rely on the specific capabilities and variance of underlying commercial LLMs. Any candidate leveraging advanced prompt engineering can generate passable promo timestamps or legal advice, making differentiation difficult.
 
